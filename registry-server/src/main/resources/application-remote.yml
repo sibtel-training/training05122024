@@ -3,4 +3,4 @@ spring:
     import: "configserver:"
   cloud:
     config:
-      uri: https://orange-chainsaw-x55vrjq9xgpxhpgwj-8888.app.github.dev/
+      uri: https://crispy-space-engine-7vvp7g4rwxjjcrgr9-8888.app.github.dev/
