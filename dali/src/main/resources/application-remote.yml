@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      uri: https://orange-chainsaw-x55vrjq9xgpxhpgwj-8888.app.github.dev/
+      fail-fast: true
